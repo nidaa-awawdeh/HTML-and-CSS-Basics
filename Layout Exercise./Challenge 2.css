@@ -1,0 +1,15 @@
+ body{
+     background-color: rgb(36, 202, 243);
+ }
+
+  li::first-letter{
+        font-size:20px;
+    font-weight:bold;
+   }
+
+  ul >li  {
+      list-style-type:none;
+  text-transform: full-width;
+  font-variant: 50px;  
+   margin-left: 50px;
+  }
