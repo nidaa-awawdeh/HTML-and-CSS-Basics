@@ -1,0 +1,44 @@
+ html{
+      background-color:rgb(221, 142, 110);
+     
+ }
+ 
+ body{
+    
+      font-size:18px;
+      background-color: silver;
+      border: black;
+      border-style: dashed;
+       margin-left: 200px ;
+        margin-right: 200px;
+         
+         
+
+ }
+ h1 {
+      text-align:center;
+     border-bottom: dashed;
+ }
+
+  p{
+         margin-left: 100px;
+           text-align: center;
+  }
+
+  li::first-letter{
+        font-size:20px;
+    font-weight:bold;
+   }
+
+  ul >li  {
+      list-style-type:none;
+  text-transform: full-width;
+  font-variant: 50px;  
+   margin-left: 50px;
+  
+     text-align: center;
+  }
+
+  .copyright {
+margin-right: 288px;
+  }
