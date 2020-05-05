@@ -1,6 +1,15 @@
  body{
      background-color: rgb(36, 202, 243);
+      font-size:18px;
  }
+ h1 {
+     margin-left: 324px;
+ }
+
+  p{
+         margin-left: 100px;
+           text-align: center;
+  }
 
   li::first-letter{
         font-size:20px;
@@ -12,4 +21,10 @@
   text-transform: full-width;
   font-variant: 50px;  
    margin-left: 50px;
+  
+     text-align: center;
+  }
+
+  .copyright {
+margin-right: 288px;
   }
