@@ -9,12 +9,39 @@
       background-color: rgba(238, 215, 116, 0.863);
   }
 
+   #nav{
+     background-color: rgb(81, 235, 81);
+     margin-top:  50px;
+     padding-bottom: 10px;
+     padding-top: 10px;
+      border-bottom: floralwhite dashed; 
+
+   }
+
+    #nav a:link {
+  text-decoration: none;
+}
 #nav ul {
 list-style:none;
+
+
+
+}
+ 
+#nav ul li {
+    display: inline-block;
+    padding-right: 25px;
+    padding-right: 25px;
+     font-size: 20px;
+      
+    
+    
+  
 }
 
 #header {
      margin-left: 900px;
+    
 }
 
 #sidebar{
@@ -29,8 +56,7 @@ list-style:none;
  }
 
 #content{
-    background-color: rgb(127, 224, 127);
-   
+    background-color: rgb(127, 224, 127); 
      margin-right: 150px;
 }
 #content li {
@@ -38,7 +64,6 @@ list-style:none;
   text-transform: full-width;
   font-variant: 50px;  
    margin-left: 50px;
-  
      text-align: center;   
   }
 
