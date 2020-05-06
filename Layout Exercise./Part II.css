@@ -7,48 +7,72 @@ html {
   margin-right: 50px;
 }
 
+#nav{
+  border-style: solid;
+}
 .pink {
   border-style: solid;
   background-color: palevioletred;
   margin-top: 20px;
-  width: 120px;
+  width: 100px;
   height: 100px;
+   margin: 5px 5px;
 }
 .pink1 {
   border-style: solid;
   background-color: palevioletred;
 
-  width: 120px;
+  width: 100px;
   height: 100px;
+   margin: 5px 5px;
 }
 .pink2 {
   border-style: solid;
   background-color: palevioletred;
 
-  width: 120px;
+  width: 100px;
   height: 100px;
+   margin: 5px 5px;
 }
 
 .blue {
   border-style: solid;
   background-color: rgb(122, 150, 228);
 
-  width: 500px;
-  height: 100px;
-  float: right;
+  width: 480px;
+  height: 70px;
+   margin: 5px 5px;
+  
 }
 .blue1 {
   border-style: solid;
   background-color: rgb(122, 150, 228);
 
-  width: 500px;
-  height: 100px;
-  float: right;
+  width: 480px;
+  height: 70px;
+   margin: 5px 5px;
+
 }
 .blue2 {
   border-style: solid;
   background-color: rgb(122, 150, 228);
 
-  width: 500px;
-  height: 100px;
+  width: 480px;
+  height: 70px;
+  margin: 5px 5px;
+}
+ .bl{
+   display: flex;
+  justify-content:flex-end;
+ }
+
+#brain{
+   border-style: solid;
+  background-color: rgb(238, 224, 103);
+
+  width: 540px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 155px;
+  justify-content: center;
 }

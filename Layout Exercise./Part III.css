@@ -1,0 +1,30 @@
+
+        div {
+            border: 3px solid black;
+        }
+        .col {
+            height:400px;
+            width:200px;
+            
+            display: inline-block;
+        }
+        .heading {
+            background: purple;
+            width: 700px;
+            height: 200px;
+           margin-left: 0px;
+        }
+        .col-left {
+            background-color: maroon;
+            margin: 20px 20px;
+             margin-left: 0px;
+           
+        }
+        .col-mid {
+            background-color: lightgreen;
+             margin: 20px 20px;
+        }
+        .col-right {
+            background-color: orange;
+             margin: 20px 20px;
+        }
