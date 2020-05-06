@@ -1,0 +1,54 @@
+html {
+  border-style: solid;
+  border-width: 2px;
+  width: 900px;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.pink {
+  border-style: solid;
+  background-color: palevioletred;
+  margin-top: 20px;
+  width: 120px;
+  height: 100px;
+}
+.pink1 {
+  border-style: solid;
+  background-color: palevioletred;
+
+  width: 120px;
+  height: 100px;
+}
+.pink2 {
+  border-style: solid;
+  background-color: palevioletred;
+
+  width: 120px;
+  height: 100px;
+}
+
+.blue {
+  border-style: solid;
+  background-color: rgb(122, 150, 228);
+
+  width: 500px;
+  height: 100px;
+  float: right;
+}
+.blue1 {
+  border-style: solid;
+  background-color: rgb(122, 150, 228);
+
+  width: 500px;
+  height: 100px;
+  float: right;
+}
+.blue2 {
+  border-style: solid;
+  background-color: rgb(122, 150, 228);
+
+  width: 500px;
+  height: 100px;
+}
